@@ -1,0 +1,31 @@
+{
+  "name": "inputErrorState",
+  "main": "inputErrorState.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AStoker/inputErrorState",
+  "description": "A Knockout binding to use on inputs (or input like elements) to display an error state and include messages describing the error.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "knockout",
+    "binding",
+    "error",
+    "indicator"
+  ],
+  "authors": [
+    "Andrew Stoker"
+  ],
+  "license": "GNU v2.0",
+  "dependencies": {
+	"knockout": ">=3.0",
+	"jquery": ">=1.6"  
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
